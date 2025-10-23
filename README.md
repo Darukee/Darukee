@@ -1,16 +1,17 @@
-## Hi there 👋
+<h3 align="center"> Hellooo👋
+<h2 align="center"> Hi there! I’m a game developer specializing in game design, storyboarding, and art. I’m passionate about creating immersive worlds.
 
-<!--
-**Darukee/Darukee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🐺 I’m currently working on "Cabra" (Lobo Version)
+🫵You can check my games here: https://darukee.itch.io/
+📫 How to reach me: beatz.nasc@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">You can found me here:</h3>
+<p align="center">
+<a href="https://twitter.com/Darukee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Darukee" height="30" width="40" /></a>
+<a href="https://www.instagram.com/beatz.nasc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Darukee" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Github info:</h3>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darukee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="MCookinho" /></p>
