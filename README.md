@@ -1,10 +1,10 @@
-<h3 align="center"> Hellooo👋
-<h2 align="center"> Hi there! I’m a game developer specializing in game design, storyboarding, and art. I’m passionate about creating immersive worlds.
+<h1 align="center"> Hellooo👋 </h1>
+<h3 align="center"> Hi there! I’m a game developer specializing in game design, storyboarding, and art. I’m passionate about creating immersive worlds.</h3>
 
-
-🐺 I’m currently working on "Cabra" (Lobo Version)
-🫵You can check my games here: https://darukee.itch.io/
-📫 How to reach me: beatz.nasc@gmail.com
+<h4 align="center">
+🐺 I’m currently working on "Cabra" (Lobo Version) </p>
+🫵You can check my games here: https://darukee.itch.io/ </p>
+📫 How to reach me: beatz.nasc@gmail.com </h4>
 
 <h3 align="center">You can found me here:</h3>
 <p align="center">
