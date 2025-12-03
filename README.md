@@ -13,5 +13,3 @@
 </p>
 
 <h3 align="center">Github info:</h3>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darukee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="MCookinho" /></p>
